@@ -47,10 +47,9 @@ body {
 }
 .estudante-todos{
     display: grid;
-    grid-template-columns: 30% 30% 30%;
+    grid-template-columns: 33% 33% 33%;
 }
+
 .estudante-titulo{
     text-align: center;
-    padding: 16px 0;
-    
 }
